@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "asset": "FAKEINY",
+    "asset_issuer_address": "1EuaN7K6vGKH7tBomSVGr1KVdWvnSnfkNE",
+    "asset_owner_address": "1EuaN7K6vGKH7tBomSVGr1KVdWvnSnfkNE",
+    "asset_supply": "100",
+    "asset_divisible": false,
+    "asset_locked": true,
+    "image": "https://imgur.com/y4ykEFm",
+    "image_large": "https://imgur.com/OM0Rf79",
+    "image_title": "FAKEINY"
+}
